@@ -1,0 +1,31 @@
+{
+  "name": "Ticket Bot",
+  "version": "1.0.0",
+  "description": "he has a big gay",
+  "main": "index.js",
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node vx.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sans-Skelly/Vulnix.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "author": "Sans-Skelly",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sans-Skelly/Vulnix/issues"
+  },
+  "homepage": "https://github.com/Sans-Skelly/Vulnix#readme",
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
